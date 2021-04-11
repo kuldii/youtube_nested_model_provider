@@ -1,3 +1,6 @@
+dependencies:
+  provider: ^5.0.0 #Tambahkan ini
+
 fonts:
   - family: Lato
     fonts:
